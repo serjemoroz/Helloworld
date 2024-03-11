@@ -19,7 +19,7 @@ public class Homework_4 {
                 }
             } else {
                 System.out.println("Введено некорректное значение. Введите число от 0 до 100.");
-                scanner.next();  // Очистка буфера ввода
+                scanner.next();
             }
         }
         if (score >= 70) {
