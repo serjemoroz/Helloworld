@@ -17,7 +17,7 @@ public class Homework_3 {
         System.out.println("Строка: " + Name);
         System.out.println("Логическое значение: " + isQA);
 
-        System.out.print("\nВведи произвольный текст: ");
+        System.out.println("\nВведи произвольный текст: ");
         String userInput = scanner.nextLine();
 
         System.out.println("\nРезультаты работы с введенной строкой:");
@@ -29,3 +29,4 @@ public class Homework_3 {
         scanner.close();
     }
 }
+
