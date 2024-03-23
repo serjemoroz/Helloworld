@@ -1,8 +1,6 @@
 package Homework;
 
 import com.sun.source.util.SourcePositions;
-
-import java.sql.SQLOutput;
 import java.util.Scanner;
 public class Homework_4 {
     public static void main(String[] args) {
